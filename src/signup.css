@@ -1,12 +1,11 @@
 *{
-    margin: 0;
-    padding: 0;
+
     font-family: sans-serif;
     box-sizing: border-box;
-    background-color: #8a8a8a;
-    background: linear-gradient(45deg, #ff6145, #eb4081, #23b9f0, #24dbb1);
-    animation: gradient 15s ease infinite;
+    background: linear-gradient(145deg, #ff6145, #eb4081, #23b9f0, #24dbb1);
+    animation: gradient 10s ease infinite;
     background-size: 400% 400%;
+    border-radius: 20px;
 }
 
 @keyframes gradient {
@@ -23,11 +22,11 @@
 
 .main_container_signup{
     background: #f6f6ff;
-    padding: 20px 30px;
+    padding: 60px 60px;
     margin: 0px auto;
-    width: 400px;
+    width: 450px;
     margin-top: 100px;
-    border-top: 5px solid #fed700;
+    border-top: 25px solid #0f969c;
 
 }
 
@@ -45,7 +44,7 @@
 
 .main_container_signup .box{
     width: 100%;
-    background: #f6f6ff;
+    background-color: #f6f6ff;
     margin-top: 10px;
 }
 
@@ -62,8 +61,8 @@
 
 .main_container_signup p{
     margin-top: 15px;
-    font-size: 14px;
-    background: #f6f6ff;
+    font-size: 200px;
+    background-color: #f6f6ff;
     color: #232323;
     margin-left: 600 ;
 }
@@ -75,7 +74,7 @@
     padding: 10px 30px;
     border: none;
     outline: none;
-    background: #fed700;
+    background: #0f969c;
     border-radius: 5px;
     color: #232323;
     font-weight: 600;

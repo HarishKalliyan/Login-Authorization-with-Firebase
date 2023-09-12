@@ -22,7 +22,14 @@ const Login = () => {
 
         }
 
+    
     }
+
+    const linkStyle = {
+        color: 'blue'
+      };
+
+
 
 
     return (
@@ -37,7 +44,7 @@ const Login = () => {
                 <div className="box">
                     <input type="password" value={pass} placeholder="Password" onChange={(e) => setPass(e.target.value)}></input>
                 </div>
-                <p>Don't Have an Account  <Link to="/">Create Account</Link></p>
+                <p>Don't Have an Account  <Link style={linkStyle} to="/">Create Account</Link></p>
                 <button onClick={submit}>Login</button>
             </div>
         </div>
