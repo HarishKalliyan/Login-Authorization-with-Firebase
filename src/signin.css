@@ -68,6 +68,9 @@
     margin-left: 600 ;
 }
 
+.main_container_signup p a{
+    background: var(--primary);
+} 
 
 
 .main_container_signup button{
