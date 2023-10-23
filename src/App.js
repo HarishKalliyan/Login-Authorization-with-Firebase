@@ -8,7 +8,9 @@ const App = () => {
       <BrowserRouter>
       <Rout />
       </BrowserRouter>
-      
+      <div className="background">
+        <img src="img2.jpg" alt="Background Image" />
+    </div>
     </div>
   )
 }
