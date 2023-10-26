@@ -6,7 +6,7 @@ Also for the Database and Hosting I have been using Google Firebase for it.
 
 Website Link
 
-# Screem Shots of the Project:
+# Screen Shots of the Project:
 
 ## SignUp Page:
 ![Login Auth new design](https://github.com/HarishKalliyan/Chrome-Extention/assets/90775945/b9a9148c-506f-402b-a4a0-bdad3665fddb)
