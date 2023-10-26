@@ -1,3 +1,15 @@
+# Login-Authorization-with-Firebase:
+
+My website is used to verify whether the given Login values is valid on or not (Available in the database or not) if Availabe it goes to next page if not it show invalid, Also if you want you can create an Account which will be saved in the database.
+
+Also for the Database and Hosting I have been using Google Firebase for it.
+
+Website Link
+
+# Screem Shots of the Project:
+![Login Auth new design](https://github.com/HarishKalliyan/Chrome-Extention/assets/90775945/b9a9148c-506f-402b-a4a0-bdad3665fddb)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +80,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
