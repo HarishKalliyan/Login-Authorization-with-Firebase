@@ -4,7 +4,6 @@ My website is used to verify whether the given Login values is valid on or not (
 
 Also for the Database and Hosting I have been using Google Firebase for it.
 
-Website Link
 
 # Screen Shots of the Project:
 
