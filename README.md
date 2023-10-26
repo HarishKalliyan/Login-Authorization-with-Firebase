@@ -7,8 +7,11 @@ Also for the Database and Hosting I have been using Google Firebase for it.
 Website Link
 
 # Screem Shots of the Project:
+
+##SignUp Page:
 ![Login Auth new design](https://github.com/HarishKalliyan/Chrome-Extention/assets/90775945/b9a9148c-506f-402b-a4a0-bdad3665fddb)
 
+##Login Page
 ![Login Page 2](https://github.com/HarishKalliyan/Login-Authorization-with-Firebase/assets/90775945/333acd41-5161-4324-bf28-7a87ff02690d)
 
 
